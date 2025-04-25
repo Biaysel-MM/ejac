@@ -30,6 +30,7 @@ Sitio web oficial de la Escuela José Altagracia Castillo, una institución educ
 4. **Contacto** (`Contacto.html`) - Formulario y ubicación
 
 ## 📂 Estructura del Proyecto
+```
 📁 EJAC-Web
 │-- 📁 Estilos_Css
 │   │-- 📁 CSS3_PW
@@ -46,6 +47,7 @@ Sitio web oficial de la Escuela José Altagracia Castillo, una institución educ
 │-- Servicio.html (Página de servicios)
 │-- Galeria.html (Galería de fotos)
 │-- Contacto.html (Página de contacto)
+```
 
 ## 📬 Información de Contacto
 
